@@ -6,15 +6,34 @@ The CEO of PyBer requested that raw data from two CSV files pertaining to rural,
 original analysis lots of charts to visualize data. new analysis looking at numbers by city type only. one single chart based on fares. 
 ## PyBer Analysis Results
 #### 
-general description of results: urban clearly makes most money and most rides. rural pretty costly per fare due to smaller population. 
+Below are the findings from the analysis:
 
-make list of data
-- total rides
-- total drivers
-- total fares
-- average fare per ride
-- driver average
-- total fare
+  * Total Rides by City Types:
+          - Urban:
+          - Suburban: 
+          - Rural:
+   * Total Driver by City Types:
+          - Urban:
+          - Suburban:
+          - Rural:
+   * Total Fares by City Type:
+          - Urban:
+          - Suburban: 
+          - Rural:
+    * Averge Fare per Ride:
+          - Urban:
+          - Suburban:
+          - Rural:
+    * Average Fare per Driver:
+          - Urban: 
+          - Suburban: 
+          - Rural:
+    * Average Fare per Rider: 
+        - Urban: 
+        - Suburban: 
+        - Rural: 
+
+general description of results: urban clearly makes most money and most rides. rural pretty costly per fare due to smaller population. 
 
 ## Summary
 ####
