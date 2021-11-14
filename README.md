@@ -9,25 +9,25 @@ The CEO of PyBer requested that raw data from two CSV files pertaining to rural,
 Below are the findings from the analysis:
 
   * Total Rides by City Type:
-          * Urban: 1625
-          * Suburban: 625
-          * Rural: 125
+          - Urban: 1625
+          - Suburban: 625
+          - Rural: 125
    * Total Drivers by City Type:
-          * Urban: 2405
-          * Suburban: 490
-          * Rural: 78
+          - Urban: 2405
+          - Suburban: 490
+          - Rural: 78
    * Total Fares by City Type:
-          * Urban: $39,854.38
-          * Suburban: $19,356.33
-          * Rural: $4,327.93
-    * Averge Fare per Ride:
-          * Urban: $24.53
-          * Suburban: $30.97
-          * Rural: $34.62
-    * Average Fare per Driver:
-          * Urban: $16.57
-          * Suburban: $39.50
-          * Rural: $55.49
+          - Urban: $39,854.38
+          - Suburban: $19,356.33
+          - Rural: $4,327.93
+   * Averge Fare per Ride:
+          - Urban: $24.53
+          - Suburban: $30.97
+          - Rural: $34.62
+   * Average Fare per Driver:
+          - Urban: $16.57
+          - Suburban: $39.50
+          - Rural: $55.49
  
 The results outlined above are rather straight forward and easy to interpret. When looking at the totals for each city type, it is obvious that the urban cities will have the largest amount of riders and drivers due to a larger and centralized population. The further away from an urban city, the lower the totals drop. Rural areas, with the lowest total riders at just 125, showcases the reality of how most individuals in rural areas will typically have their own means of transportation compared to the 1,625 riders in urban cities that may not need to maintain their own means of travel. The averages follow a distinctly different trend as seen below in the pivot table. 
 #### (insert table image)
@@ -38,8 +38,10 @@ The previous analysis that was performed focused heavily on comparing average to
 ####
 [insert plot image]
 
-general description of results: urban clearly makes most money and most rides. rural pretty costly per fare due to smaller population. 
-
 ## Summary
 ####
+A quick glimpse at any of the charts and tables from either analysis performed for the CEO of PyBer shows there is great disparity between rural and urban cities with suburban cities sitting somewhere in the middle. Much of the disparity can be contributed to the way communities sprout up around these cities based on need and population. These types of differences cannot be addressed by a single ride-sharing company, however, some changes can be suggested to best serve both the company and customers. One of the most glaring challenge to combat would be the high cost per fare for a rural rider at the high price of $34.62. To attempt to drop the cost for the rider, and encourage more business, PyBer might be able to push promotionals in those regions during peak activity as seen in the plot chart. Potentially offering a few dollars or a flat fee regardless of distance could cut down on the high cost while also potentially encouraging new customers that may have balked at the high cost. 
+
 make three business recommendations to address disparities amongst city types
+
+
