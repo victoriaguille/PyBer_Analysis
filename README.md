@@ -8,30 +8,27 @@ original analysis lots of charts to visualize data. new analysis looking at numb
 #### 
 Below are the findings from the analysis:
 
-  * Total Rides by City Types:
-          - Urban:
-          - Suburban: 
-          - Rural:
-   * Total Driver by City Types:
-          - Urban:
-          - Suburban:
-          - Rural:
+  * Total Rides by City Type:
+          * Urban: 1625
+          * Suburban: 625
+          * Rural: 125
+   * Total Drivers by City Type:
+          * Urban: 2405
+          * Suburban: 490
+          * Rural: 78
    * Total Fares by City Type:
-          - Urban:
-          - Suburban: 
-          - Rural:
+          * Urban: $39,854.38
+          * Suburban: $19,356.33
+          * Rural: $4,327.93
     * Averge Fare per Ride:
-          - Urban:
-          - Suburban:
-          - Rural:
+          * Urban: $24.53
+          * Suburban: $30.97
+          * Rural: $34.62
     * Average Fare per Driver:
-          - Urban: 
-          - Suburban: 
-          - Rural:
-    * Average Fare per Rider: 
-        - Urban: 
-        - Suburban: 
-        - Rural: 
+          * Urban: $16.57
+          * Suburban: $39.50
+          * Rural: $55.49
+ 
 
 general description of results: urban clearly makes most money and most rides. rural pretty costly per fare due to smaller population. 
 
