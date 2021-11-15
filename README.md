@@ -8,26 +8,26 @@ The CEO of PyBer requested that raw data from two CSV files pertaining to rural,
 #### 
 Below are the findings from the analysis:
 
-  * Total Rides by City Type:
-          - Urban: 1625
-          - Suburban: 625
-          - Rural: 125
-   * Total Drivers by City Type:
-          - Urban: 2405
-          - Suburban: 490
-          - Rural: 78
-   * Total Fares by City Type:
-          - Urban: $39,854.38
-          - Suburban: $19,356.33
-          - Rural: $4,327.93
-   * Averge Fare per Ride:
-          - Urban: $24.53
-          - Suburban: $30.97
-          - Rural: $34.62
-   * Average Fare per Driver:
-          - Urban: $16.57
-          - Suburban: $39.50
-          - Rural: $55.49
+* Total Rides by City Type:
+*   - Urban: 1625
+*   - Suburban: 625
+*   - Rural: 125
+* Total Drivers by City Type:
+*   - Urban: 2405
+*   - Suburban: 490
+*   - Rural: 78
+* Total Fares by City Type:
+*   - Urban: $39,854.38
+*   - Suburban: $19,356.33
+*   - Rural: $4,327.93
+* Averge Fare per Ride:
+*   - Urban: $24.53
+*   - Suburban: $30.97
+*   - Rural: $34.62
+* Average Fare per Driver:
+*   - Urban: $16.57
+*   - Suburban: $39.50
+*   - Rural: $55.49
  
 The results outlined above are rather straight forward and easy to interpret. When looking at the totals for each city type, it is obvious that the urban cities will have the largest amount of riders and drivers due to a larger and centralized population. The further away from an urban city, the lower the totals drop. Rural areas, with the lowest total riders at just 125, showcases the reality of how most individuals in rural areas will typically have their own means of transportation compared to the 1,625 riders in urban cities that may not need to maintain their own means of travel. The averages follow a distinctly different trend as seen below in the pivot table. 
 #### ![table_image](https://github.com/victoriaguille/PyBer_Analysis/blob/main/analysis/PyBer_Summary_DF.PNG)
@@ -36,7 +36,7 @@ In the pivot chart, rural cities had the highest fare prices per driver and ride
 ####
 The previous analysis that was performed focused heavily on comparing average totals by individual cities and city types, showing the trend witnessed in this analysis' pivot table regarding totals by city type. This new analysis uses a resample function to look at the weekly averages of fare prices by city type. Upon first glance, the below line plot shows the obvious results that the urban city type is the most profitable and the rural city type the least profitable. However, it can also be gleaned that there are spikes in activity across all three city types in late winter and mid spring. This particular format of the results also showcases in which months might be the slowest for PyBer or in the same vein, which months will be the best to employ changes for riders and drivers depending on the company's activity per city type. 
 ####
-![plot image]()
+![plot image](https://github.com/victoriaguille/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
 ####
